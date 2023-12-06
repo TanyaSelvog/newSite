@@ -3,6 +3,14 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I'm a Software Developer who is passionate about learning new things, supporting women and minorities in tech, and building community. After years in various non-tech positions, I finished my Bachelor of Science degree in January 2023, and I'm excited to apply all of my skills and knowledge towards a career in software development. I'm currently learning AI and cloud computing and have several Azure certificates.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+
+### Projects
+[Scheduler App](https://github.com/TanyaSelvog/Software_II_Project)
+
+Scheduler App is a GUI-based scheduling desktop app where users can add, edit, and delete appointments and client data, and generate selected reports. It was built in IntelliJ CE using JavaFX and MySQL, and it was completed per WGU's requirements of Software II - Advanced Java Concepts coursework.
+
+[Student Scheduler Mobile App](https://github.com/TanyaSelvog/StudentScheduler)
+
+Student Scheduler Mobile App is a multi-screen mobile application (compatible for Android 8.0 and higher) where a student can track terms, courses associated with each term, and assessments associated with each course. Alerts are provided for upcoming performance and objective assessments. It was made using Android Studio and written in Java and uses SQLite database.
