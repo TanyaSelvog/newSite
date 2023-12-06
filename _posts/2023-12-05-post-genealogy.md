@@ -27,16 +27,16 @@ I had to create:
 
 After creating these, the Language Studio steps were pretty straightforward.
 
-![Language Translator Steps](/newSite/assets/images/job.png)
+![Language Translator Steps](/assets/images/job.png)
 
 **Results**
 
 I uploaded the PDF and honestly, I wasn't anticipating much in the way of results. Some dates were translated, but none of the names were correct. 
 
-![Original record](/newSite/assets/images/familyTree.jpg)
+![Original record](/assets/images/familyTree.jpg)
 
 
-![German family record translated](/newSite/assets/images/textTranslated.jpg)
+![German family record translated](/assets/images/textTranslated.jpg)
 
 The results were about what I expected. I can't really do much with what I have, but it's a good starting point and it was just good to feel comfortable tinkering around with Azure AI.
 
