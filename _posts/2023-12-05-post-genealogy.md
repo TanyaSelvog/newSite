@@ -6,7 +6,7 @@ tags:
   - Genealogy
   - Azure
 ---
-**Background**
+
 
 I passed my Azure AI Fundamentals exam this past week 😁 and now that I'm done studying, I actually have time to tinker around with Azure AI. 
 
