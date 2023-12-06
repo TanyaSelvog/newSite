@@ -1,6 +1,12 @@
 ---
-layout: post
+
 title: "Learning Azure: Translating Family Records"
+categories:
+  - Blog
+tags:
+  - Genealogy
+  - Azure
+
 ---
 **Background**
 
