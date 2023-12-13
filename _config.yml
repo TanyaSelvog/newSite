@@ -16,7 +16,7 @@
 title: Tanya Selvog
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Portfolio and blog site by Tanya Selvog.
+  Portfolio and blog site from Tanya Selvog.
 github_username: username
 minimal_mistakes_skin: default
 search: true
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Tanya Selvog"
   avatar : "/assets/images/self2.jpeg"
-  bio    : "Software Developer. Azure Learner. Lego AFOL. Cat Mom."
+  bio    : "Software Developer. Azure Learner. Cat Mom."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
