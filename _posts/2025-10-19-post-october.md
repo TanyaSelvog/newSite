@@ -1,3 +1,4 @@
+---
 title: "Beginning Again"
 categories:
   - Blog

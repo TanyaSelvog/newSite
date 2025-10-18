@@ -1,3 +1,5 @@
+---
+
 title: "Early Spooky Season"
 categories:
   - Blog
